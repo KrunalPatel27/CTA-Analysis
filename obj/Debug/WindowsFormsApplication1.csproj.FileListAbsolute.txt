@@ -1,0 +1,15 @@
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Krunal\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\kpate236_Homework6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\kpate236_Homework6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\kpate236_Homework6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA Analysis\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA Analysis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA Analysis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
